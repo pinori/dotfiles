@@ -33,5 +33,6 @@ setopt EXTENDED_HISTORY # zshの開始終了を記録
 alias ls="ls -F"
 
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+alias cot="open -a /Applications/CotEditor.app"
 
 [ -f ~/.zshrc.local ] && source ~/.zshrc.local
