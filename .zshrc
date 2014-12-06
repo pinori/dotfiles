@@ -32,4 +32,6 @@ setopt EXTENDED_HISTORY # zshの開始終了を記録
 # command aliases
 alias ls="ls -F"
 
+alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+
 [ -f ~/.zshrc.local ] && source ~/.zshrc.local
