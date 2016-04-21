@@ -1,3 +1,6 @@
+# PATH
+export PATH="/usr/local/bin:$PATH"
+
 # colors
 autoload -U colors
 colors
