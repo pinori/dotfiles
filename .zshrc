@@ -35,6 +35,8 @@ setopt EXTENDED_HISTORY # zshの開始終了を記録
 # command aliases
 alias ls="ls -F"
 
+alias be="bundle exec"
+
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias cot="open -a /Applications/CotEditor.app"
 
