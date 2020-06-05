@@ -17,8 +17,7 @@ precmd() {
 RPROMPT="%1(v|%F{green}%1v%f|)"
 
 # 補完機能
-autoload -U compinit
-compinit
+autoload -Uz compinit && compinit
 
 # 履歴
 HISTFILE=~/.zsh_history
