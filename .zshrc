@@ -33,7 +33,6 @@ alias ls="ls -F"
 
 alias be="bundle exec"
 
-alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias cot="open -a /Applications/CotEditor.app"
 
 [ -f ~/.zshrc.local ] && source ~/.zshrc.local
